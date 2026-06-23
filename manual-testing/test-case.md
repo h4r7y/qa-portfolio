@@ -19,6 +19,8 @@ Erwartetes Ergebnis:
 -  Zeit erscheint in der Übersicht
 
 
+
+
 ## TC-002 - Zeiterfassung mit ungültiger Uhrzeit
 
 System:
@@ -38,6 +40,9 @@ Erwartetes Ergebnis:
 -  System erkennt die ungültige Zeitspanne
 -  Fehlermeldung wird angezeigt
 -  Eintrag wird nicht gespeichert
+
+
+
 
 ##  TC--003 - Zeiteintrag bearbeiten und speichern
 

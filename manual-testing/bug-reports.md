@@ -32,7 +32,7 @@ Status:
 Open
 
 
-
+---
 ## Bug-002 - Speichern ohne Arbeitszeit möglich
 
 System:
@@ -66,7 +66,7 @@ Medium
 Status:
 Open
 
-
+---
 ##  Bug-003 - Ungültige Zeitspanne wird akzeptiert
 
 System:

@@ -2,7 +2,7 @@
 QA Testing Portfolio - Manual Testing and Test Automation
 
 ## Über mich
-Ich bin Fachinformatiker für Anwendungsentwicklung (IHK) mit IT-Hintergung
+Ich bin Fachinformatiker für Anwendungsentwicklung (IHK) mit IT-Hintergrund
 
 Meine bisherigen Kenntnisse:
 

@@ -9,7 +9,7 @@ Testumfang:
 -  Validierung
 
 Durchgeführt:
-10 Testfälle
+09 Testfälle
 
 Ergebnis:
 8 bestanden

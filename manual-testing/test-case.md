@@ -20,7 +20,7 @@ Erwartetes Ergebnis:
 
 
 
-
+---
 ## TC-002 - Zeiterfassung mit ungültiger Uhrzeit
 
 System:
@@ -43,7 +43,7 @@ Erwartetes Ergebnis:
 
 
 
-
+---
 ##  TC--003 - Zeiteintrag bearbeiten und speichern
 
 System:

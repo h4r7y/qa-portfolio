@@ -24,8 +24,7 @@ Ergebnis:
 Bestanden
 
 
-
-
+---
 ##  ST002 - Navigation und Übersicht prüfen
 
 System:
@@ -51,8 +50,7 @@ Ergebnis:
 Fehlgeschlagen
 
 
-
-
+---
 ## ST003 - Neuer Zeiteintrag erstellen
 
 System:

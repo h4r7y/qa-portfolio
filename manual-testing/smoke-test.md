@@ -1,7 +1,7 @@
 #  Smoke Test - Zeiterfassung
 
 Ziel:
-Prüfen, ob die wichtigstenn Funktionen funktionieren.
+Prüfen, ob die wichtigsten Funktionen funktionieren.
 
 Tests:
 

@@ -1,32 +1,33 @@
 ##  Bug-002 - Speichern-Button ohne Funktion
 
-**System:**
+**System:** <br>
 Zeiterfassungs-Demo Anwendung
 
-**Titel:**
+**Titel:** <br>
 Speichern-Button ohne Funktion
 
-**Umgebung:**
-Browser:Chrome
+**Umgebung:** <br>
+Browser:Chrome <br>
+System:Windows 11
 
-**Voraussetzung:**
-- Benutzer ist angemeldet
+**Voraussetzung:** <br>
+- Benutzer ist angemeldet <br>
 - Zeiterfassung ist geöffnet
 
-**Schritte:**
-1.  Zeit eintragen
+**Schritte:** <br>
+1.  Zeit eintragen <br>
 2.  Speichern klicken
 
-**Erwartetes Ergebnis:**
+**Erwartetes Ergebnis:** <br>
 -  Eintrag wird gespeichert
 
-**Tatsächliches Ergebnis:**
+**Tatsächliches Ergebnis:** <br>
 -  Keine Speicherung
 
-**Schweregrad:**
+**Schweregrad:** <br>
 High
 
-**Status:**
+**Status:** <br>
 Open
 
 

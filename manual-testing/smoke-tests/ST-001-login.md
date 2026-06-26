@@ -1,4 +1,4 @@
-##  ST001 - Login Funktionalität
+##  ST-001 - Login Funktionalität
 
 **System:**
 Zeiterfassungs-Demo Anwendung

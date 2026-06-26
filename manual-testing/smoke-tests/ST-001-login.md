@@ -4,7 +4,7 @@
 Zeiterfassungs-Demo Anwendung
 
 **Ziel:** <br>
-Prüfen, ob der Login grundsädlich funktioniert und das System nach dem Login erreichbar ist.
+Prüfen, ob der Login grundsätzlich funktioniert und das System nach dem Login erreichbar ist.
 
 **Schritte:** <br>
 1.  Login der Zeiterfasung öffnen

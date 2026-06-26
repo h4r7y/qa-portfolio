@@ -51,4 +51,4 @@ Zeiterfassungs-Demo Anwendung
 
 **Schritte:**
 1.  Vorhandenen Zeiteintrag öffnen
-2.  Abreitszeit ändern (z.B von 8 Stunden auf 7 Stund
+2.  Abreitszeit ändern (z.B von 8 Stunden auf 7 Stunden)

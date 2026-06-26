@@ -1,12 +1,12 @@
 ## ST003 - Neuer Zeiteintrag erstellen
 
-**System:**
+**System:** <br>
 Zeiterfassungs-Demo Anwendung
 
-**Ziel:**
+**Ziel:** <br>
 Prüfen, ob die Kenfunktionen der Zeiterfasssung funktionieren
 
-**Schitte:**
+**Schitte:** <br>
 1.  Anwendung öffen
 2.  Benutzer anmelden
 3.  Neue Zeiterfassung öffnen
@@ -14,10 +14,10 @@ Prüfen, ob die Kenfunktionen der Zeiterfasssung funktionieren
 5.  Arbeitszeit eintragen
 6.  Speichern klicken
 
-**Erwartetes Ergebnis:**
+**Erwartetes Ergebnis:** <br>
 -  Neuer Eintrag wird gepeichert
 -  Eintrag erscheint in der Übersicht
 
-**Ergebnis:**
+**Ergebnis:** <br>
 Fehlgeschlagen
 

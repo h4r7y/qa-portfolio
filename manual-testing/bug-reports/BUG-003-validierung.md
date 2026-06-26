@@ -1,9 +1,10 @@
 ##  Bug-003 - Ungültige Zeitspanne wird akzeptiert
 
 **System:** <br>
+Zeiterfassungs-Demo Anwendung
 
-**Umgebung:** <BR>
-
+**Umgebung:** <br>
+Browser:Safari <br>
 
 **Titel:** <br>
 Endzeit liegt vor Startzeit

@@ -1,24 +1,24 @@
 ##  ST-001 - Login Funktionalität
 
-**System:**
+**System:** <br>
 Zeiterfassungs-Demo Anwendung
 
-**Ziel:**
+**Ziel:** <br>
 Prüfen, ob der Login grundsädlich funktioniert und das System nach dem Login erreichbar ist.
 
-**Schritte:**
+**Schritte:** <br>
 1.  Login der Zeiterfasung öffnen
 2.  Benutzername eingeben
 3.  Passwort eingeben
 4.  Login Button klicken
 
-**Erwartets Ergebnis:**
+**Erwartets Ergebnis:** <br>
 -  Benutzer wird erfolgreich eingeloggt
 -  Dashboard der Zeiterfassung wird angezeigt
 -  Keine Fehlermeldung erscheit
 -  Anwendung ist nach Login vollständig nutzbar
 
-**Ergebnis:**
+**Ergebnis:** <br>
 Bestanden
 
 

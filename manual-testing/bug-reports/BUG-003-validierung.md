@@ -5,6 +5,7 @@ Zeiterfassungs-Demo Anwendung
 
 **Umgebung:** <br>
 Browser:Safari <br>
+System:Linux
 
 **Titel:** <br>
 Endzeit liegt vor Startzeit

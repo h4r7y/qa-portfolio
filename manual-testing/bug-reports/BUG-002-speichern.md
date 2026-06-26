@@ -7,8 +7,8 @@ Zeiterfassungs-Demo Anwendung
 Speichern-Button ohne Funktion
 
 **Umgebung:** <br>
-Browser:Chrome <br>
-System:Windows 11
+Browser:  Chrome <br>
+System:   Windows 11
 
 **Voraussetzung:** <br>
 - Benutzer ist angemeldet <br>

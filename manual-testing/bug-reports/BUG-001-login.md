@@ -1,34 +1,34 @@
-**Titel:**
+**Titel:** <br>
 Login mit falschem Passwort zeigt keine Fehlermeldung
 
-**Bereic:h**
+**Bereich:** <br>
 Login
 
-**Umgebung:**
-Browser:Chrome
+**Umgebung:** <br>
+Browser:Chrome <br>
 System:macOs
 
-**Voraussetzung:**
+**Voraussetzung:** <br>
 Benutzerkonto ist vorhanden
 
-**Schritte:**
+**Schritte:** <br>
 1.  Login-Seite öffenen
 2.  Gültigen Benutzernamen eingeben
 3.  Falsches Passwort eingeben
 4.  Auf "Login" klicken
 
-**Erwartetes Ergebnis:**
-Eine Fehlermeldung wird angezeigt:
+**Erwartetes Ergebnis:** <br>
+Eine Fehlermeldung wird angezeigt: <br>
 "Benutzername oder Passwort falsch"
 
-**Tatsächliches Ergebnis:**
+**Tatsächliches Ergebnis:** <br>
 Keine Fehlermeldung wird angezeigt
 
-**Schweregrad:**
+**Schweregrad:** <br>
 High
 
-**Priorität:**
+**Priorität:** <br>
 Hoch
 
-**Status:**
+**Status:** <br>
 Open

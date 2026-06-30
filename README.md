@@ -52,6 +52,7 @@ Geplante Erweiterungen:
 ##  Verwendete Tools
 
 -  Git / GitHub
+-  Codespace
 -  Visual Studio Code
 -  C#
 -  SQL

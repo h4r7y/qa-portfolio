@@ -70,7 +70,7 @@ Aktuelle Beispiele:
 ---
 ##  Ziel
 
-Aufbau praktishcer Fähigkeiten für eine Tätigkeit als:
+Aufbau praktischer Fähigkeiten für eine Tätigkeit als:
 -  Junior QA Engineer
 -  Software Tester
 -  Junior Test Automation Engineer

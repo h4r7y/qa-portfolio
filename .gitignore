@@ -3,3 +3,4 @@
 **/.playwright/
 **/playwright-report/
 **/TestResults/
+**/node_modules/

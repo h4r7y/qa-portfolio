@@ -8,7 +8,7 @@
 - [ ] Passwort enthält die vorgebenen Zeichen Buchstaben und Sonderzeichen
 - [ ] Login dauert zulange Benutzer klick im Browser vermehrt auf vor oder zurück
 - [ ] Benutzer hat etwas vergessen auszufüllen auf einem Formular und klick zurück
-
+- [ ] Profil ändern und speichern 
 
 - [ ] Automation mit SQL Anbindung 
 

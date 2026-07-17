@@ -1,6 +1,6 @@
 # QA Test Ideas
 
-## 001 - Mehrfachklick auf Sprichern
+## 001 - Mehrfachklick auf Speichern
 
 ### Szenario
 Der Benutzer klickt mehrfach auf "Speichern", weil keine Rückmeldung erscheint.

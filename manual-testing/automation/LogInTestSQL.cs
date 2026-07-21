@@ -19,6 +19,7 @@ public class LoginTestSQL : PageTest
         await Page.FillAsync("#email", "test@test.com");
         await Page.FillAsync("#password", "1234");
 
+   
         await Page.ClickAsync("#login");
 
         await Expect(Page.Locator("#message")).ToHaveTextAsync("Login successful");

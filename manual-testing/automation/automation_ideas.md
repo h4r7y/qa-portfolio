@@ -10,6 +10,7 @@
 - [ ] Benutzer hat etwas vergessen auszufüllen auf einem Formular und klick zurück
 - [ ] Profil ändern und speichern 
 
-- [ ] Automation mit SQL Anbindung 
+- [ ] Automation mit SQL Anbindung
+- [ ] Login mit SQL-Datenbank
 
 

@@ -4,8 +4,8 @@
 ZeiterfassungsDemo - App
 
 ## Ziel
-Überptüfung der
-vwichgigenn Funktinonen vor Veröffentlichung
+Überprüfung der
+wichtigsten Funktinonen vor Veröffentlichung
 
 ## Testfälle
 
@@ -19,8 +19,8 @@ vwichgigenn Funktinonen vor Veröffentlichung
 TC-001 Login erfolgreich
 Tc-002 Login mit falschen Passwörtern 
 TC-003 Pflichtfeldprüfung
-TC - 004 Zeiteintrag erstellen
-TC- 005  Zeiteintrag bearbeiten
+TC-004 Zeiteintrag erstellen
+TC-005 Zeiteintrag bearbeiten
 
 ## Fehlerverwaltung
 Gefundene Fehler werden dokumentiert mit:

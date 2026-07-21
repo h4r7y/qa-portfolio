@@ -6,7 +6,7 @@
 Prüfen, ob ein Benutzer sich mit gültigen Zugangsdaten anmelden kann.
 
 **Vorbedingungen:**
-- Benutzer existiertin der Datenbank 
+- Benutzer existiert in der Datenbank 
 - Login-Seite ist erreichbar
 
 **Testdaten:**

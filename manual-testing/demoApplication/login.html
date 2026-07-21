@@ -1,31 +1,33 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>QA Test Portal - Login</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
 <body>
 
-<h2>Login</h2>
+<div class="login-container">
 
-<input id="email" placeholder="Email">
-<input id="password" type="password" placeholder="Passwort">
+    <div class="login-card">
 
-<button id="login">Login</button>
+        <h1>QA Test Portal</h1>
+        <p>Playwright • C# • SQLite</p>
 
-<h3 id="message"></h3>
+        <input id="email" type="email" placeholder="E-Mail">
 
-<script>
-document.getElementById("login").onclick = function(){
+        <input id="password" type="password" placeholder="Passwort">
 
-let email = document.getElementById("email").value;
-let password = document.getElementById("password").value;
+        <button id="login">Login</button>
 
-if(email=="test@test.de" && password=="123456"){
- document.getElementById("message").innerHTML="Login erfolgreich";
-}
-else{
- document.getElementById("message").innerHTML="Login fehlgeschlagen";
-}
+        <p id="message"></p>
 
-}
-</script>
+    </div>
+
+</div>
+
+<script src="js/login.js"></script>
 
 </body>
 </html>

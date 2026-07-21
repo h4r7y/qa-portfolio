@@ -1,6 +1,6 @@
 # Login Test Cases
 
-##  TC-001 : Successful Login
+##  TC-001 : Erfolgreicher Login
 
 **Testziel:**
 Prüfen, ob ein Benutzer sich mit gültigen Zugangsdaten anmelden kann.
@@ -26,7 +26,7 @@ Prüfen, ob ein Benutzer sich mit gültigen Zugangsdaten anmelden kann.
 **Status:**
 [x] Passed
 
-## TC-002 : Login with wrong password
+## TC-002 : Login mit falschem Passwort
 
 **Testziel:**
 Prüfen, ob das System einen Login mit falschen Passwort ablehnt.

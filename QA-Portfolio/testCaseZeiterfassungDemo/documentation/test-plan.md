@@ -34,7 +34,7 @@ Gefundene Fehler werden dokumentiert mit:
 ## Abschluss
 
 Der Test ist abgeschlossen wenn:
--  alle geplnten Testflälk ausgeführt wurden
+-  alle geplanten Testfälle ausgeführt wurden
 -  offene Fehler bewertet 
 
 

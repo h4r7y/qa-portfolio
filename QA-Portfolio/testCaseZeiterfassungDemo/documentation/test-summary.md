@@ -12,8 +12,8 @@ Durchgeführt:
 09 Testfälle
 
 Ergebnis:
-8 bestanden
-2 Fehler gefunden
+6 bestanden
+3 Fehler gefunden
 
 Status:
 Testdurchführung abgeschlossen

@@ -16,11 +16,11 @@ wichtigsten Funktinonen vor Veröffentlichung
 
 ## Testfälle
 
-TC-001 Login erfolgreich
-Tc-002 Login mit falschen Passwörtern 
-TC-003 Pflichtfeldprüfung
-TC-004 Zeiteintrag erstellen
-TC-005 Zeiteintrag bearbeiten
+- TC-001 Login erfolgreich
+- Tc-002 Login mit falschen Passwörtern 
+- TC-003 Pflichtfeldprüfung
+- TC-004 Zeiteintrag erstellen
+- TC-005 Zeiteintrag bearbeiten
 
 ## Fehlerverwaltung
 Gefundene Fehler werden dokumentiert mit:

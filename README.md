@@ -19,7 +19,7 @@ Software Testing und Test Automation.
 ---
 ##  Ziel dieses Portfolios
 
-Dieses Repository zeigt meine paraktische Entwicklung im Bereich Software Testing.
+Dieses Repository zeigt meine praktische Entwicklung im Bereich Software Testing.
 
 Enthalten sind:
 
@@ -56,8 +56,8 @@ Geplante Erweiterungen:
 -  Visual Studio Code
 -  C#
 -  SQL
--  Playwright (geplant)
--  Jira Grundlagen
+-  Playwright
+-  Jira (geplant)
 
 ---
 ## Testsystem
